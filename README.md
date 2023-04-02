@@ -2,7 +2,7 @@
 Software Oficial de FdezNet, Necesario para generar e Imprimir los Tickets (Fichas) con los Códigos de Acceso. 
 Puedes bajar el archivo y modificar a tu gusto unos simples datos
 
-(https://raw.githubusercontent.com/Arisel-Fdez/FdezTickets/main/scree/4.jpg)
+![](https://raw.githubusercontent.com/Arisel-Fdez/FdezTickets/main/scree/4.jpg)
 
 Invitame un cafe https://www.buymeacoffee.com/AriselFdez
 
